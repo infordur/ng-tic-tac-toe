@@ -1,0 +1,9 @@
+
+<h1>TIC - TAC - TOE <button nbButton outline status="info" (click)="newGame()">New Game</button></h1>
+
+<h4 *ngIf="!winner">Current Player: {{player}}</h4>
+<h2 *ngIf="winner"> Player <b>{{winner}}</b> won the game</h2>
+
+<main>
+    <app-cell *ngFor="let sq of cells; let i = index" [value]="sq" (click)="makeMove(i)"></app-cell>
+</main>
