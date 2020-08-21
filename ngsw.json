@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1598041582912,
-  "index": "/ng-tic-tac-toe/index.html",
+  "timestamp": 1598041811706,
+  "index": "https://infordur.github.io/ng-tic-tac-toe/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ng-tic-tac-toe/favicon.ico",
-        "/ng-tic-tac-toe/index.html",
-        "/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js",
-        "/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js",
-        "/ng-tic-tac-toe/manifest.webmanifest",
-        "/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js",
-        "/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js",
-        "/ng-tic-tac-toe/runtime-es2015.03be56e9a6b75a3e94dd.js",
-        "/ng-tic-tac-toe/runtime-es5.03be56e9a6b75a3e94dd.js",
-        "/ng-tic-tac-toe/styles.7743ee0655574b4c2c4b.css"
+        "https://infordur.github.io/ng-tic-tac-toe/favicon.ico",
+        "https://infordur.github.io/ng-tic-tac-toe/index.html",
+        "https://infordur.github.io/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js",
+        "https://infordur.github.io/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js",
+        "https://infordur.github.io/ng-tic-tac-toe/manifest.webmanifest",
+        "https://infordur.github.io/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js",
+        "https://infordur.github.io/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js",
+        "https://infordur.github.io/ng-tic-tac-toe/runtime-es2015.03be56e9a6b75a3e94dd.js",
+        "https://infordur.github.io/ng-tic-tac-toe/runtime-es5.03be56e9a6b75a3e94dd.js",
+        "https://infordur.github.io/ng-tic-tac-toe/styles.7743ee0655574b4c2c4b.css"
       ],
       "patterns": []
     },
@@ -32,38 +32,38 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ng-tic-tac-toe/assets/icons/icon-128x128.png",
-        "/ng-tic-tac-toe/assets/icons/icon-144x144.png",
-        "/ng-tic-tac-toe/assets/icons/icon-152x152.png",
-        "/ng-tic-tac-toe/assets/icons/icon-192x192.png",
-        "/ng-tic-tac-toe/assets/icons/icon-384x384.png",
-        "/ng-tic-tac-toe/assets/icons/icon-512x512.png",
-        "/ng-tic-tac-toe/assets/icons/icon-72x72.png",
-        "/ng-tic-tac-toe/assets/icons/icon-96x96.png"
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-128x128.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-144x144.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-152x152.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-192x192.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-384x384.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-512x512.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-72x72.png",
+        "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ng-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/ng-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/ng-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/ng-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/ng-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/ng-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/ng-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/ng-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/ng-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/ng-tic-tac-toe/index.html": "1407e21e5cfe288cc2144c8bf63dc036c0e3d38d",
-    "/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js": "dfe827a70283d250de13a0c8a963f3dfed5fa8f2",
-    "/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js": "296f065476d455da706b07754b03bd0b175aac08",
-    "/ng-tic-tac-toe/manifest.webmanifest": "a2e3409db853a80fdbc889b641f73f5ed6270e84",
-    "/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
-    "/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js": "447ff89ec02cbe742d59858391e42265f42f8453",
-    "/ng-tic-tac-toe/runtime-es2015.03be56e9a6b75a3e94dd.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/ng-tic-tac-toe/runtime-es5.03be56e9a6b75a3e94dd.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/ng-tic-tac-toe/styles.7743ee0655574b4c2c4b.css": "dedf29aa28f9856d90d289ed932d37e8206b9735"
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://infordur.github.io/ng-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://infordur.github.io/ng-tic-tac-toe/index.html": "5517e8a77e543df56300f97ac76b6bc31258259d",
+    "https://infordur.github.io/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js": "dfe827a70283d250de13a0c8a963f3dfed5fa8f2",
+    "https://infordur.github.io/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js": "296f065476d455da706b07754b03bd0b175aac08",
+    "https://infordur.github.io/ng-tic-tac-toe/manifest.webmanifest": "a2e3409db853a80fdbc889b641f73f5ed6270e84",
+    "https://infordur.github.io/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
+    "https://infordur.github.io/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js": "447ff89ec02cbe742d59858391e42265f42f8453",
+    "https://infordur.github.io/ng-tic-tac-toe/runtime-es2015.03be56e9a6b75a3e94dd.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://infordur.github.io/ng-tic-tac-toe/runtime-es5.03be56e9a6b75a3e94dd.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://infordur.github.io/ng-tic-tac-toe/styles.7743ee0655574b4c2c4b.css": "dedf29aa28f9856d90d289ed932d37e8206b9735"
   },
   "navigationUrls": [
     {
