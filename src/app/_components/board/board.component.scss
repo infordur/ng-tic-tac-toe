@@ -1,10 +1,32 @@
 main {
     display: grid;
-    grid-template-columns: 200px 200px 200px;
+    grid-template-columns: 33% 33% 33%;
     grid-gap: 0px;
 }
 
 app-cell {
     border: 1px gray solid;
-    height: 200px;
+    height: 100px;
+}
+
+
+@media (min-width: 768px) {
+    main {
+        grid-template-columns: 33% 33% 33%;
+    }
+
+    app-cell {
+        height: 230px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    main {
+        grid-template-columns: 200px 200px 200px;
+    }
+
+    app-cell {
+        height: 200px;
+    }
 }
