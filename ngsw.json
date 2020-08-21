@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1598041811706,
+  "timestamp": 1598043242141,
   "index": "https://infordur.github.io/ng-tic-tac-toe/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "https://infordur.github.io/ng-tic-tac-toe/favicon.ico",
         "https://infordur.github.io/ng-tic-tac-toe/index.html",
-        "https://infordur.github.io/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js",
-        "https://infordur.github.io/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js",
+        "https://infordur.github.io/ng-tic-tac-toe/main-es2015.17808b2c2842ee1833ba.js",
+        "https://infordur.github.io/ng-tic-tac-toe/main-es5.17808b2c2842ee1833ba.js",
         "https://infordur.github.io/ng-tic-tac-toe/manifest.webmanifest",
         "https://infordur.github.io/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js",
         "https://infordur.github.io/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js",
@@ -55,9 +55,9 @@
     "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://infordur.github.io/ng-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://infordur.github.io/ng-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://infordur.github.io/ng-tic-tac-toe/index.html": "5517e8a77e543df56300f97ac76b6bc31258259d",
-    "https://infordur.github.io/ng-tic-tac-toe/main-es2015.b3dc8feae5ae850b465b.js": "dfe827a70283d250de13a0c8a963f3dfed5fa8f2",
-    "https://infordur.github.io/ng-tic-tac-toe/main-es5.b3dc8feae5ae850b465b.js": "296f065476d455da706b07754b03bd0b175aac08",
+    "https://infordur.github.io/ng-tic-tac-toe/index.html": "9d7d05d540df6a90d659cb1379fa44e193d3c5cf",
+    "https://infordur.github.io/ng-tic-tac-toe/main-es2015.17808b2c2842ee1833ba.js": "2cee0184f5b5c2e8335da466c5e710d6560ceb75",
+    "https://infordur.github.io/ng-tic-tac-toe/main-es5.17808b2c2842ee1833ba.js": "7610c861499f63aa91298b6a3c64cd081b4b5684",
     "https://infordur.github.io/ng-tic-tac-toe/manifest.webmanifest": "a2e3409db853a80fdbc889b641f73f5ed6270e84",
     "https://infordur.github.io/ng-tic-tac-toe/polyfills-es2015.9a5aad734f80e24f18af.js": "cad3129c71535baaab25ac06d8429734959b0b3f",
     "https://infordur.github.io/ng-tic-tac-toe/polyfills-es5.8a6aced6a215ef742e25.js": "447ff89ec02cbe742d59858391e42265f42f8453",
